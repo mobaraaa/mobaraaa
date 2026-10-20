@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
 </p>
 
 <h1 align="center">👋 I am Mohammed Baraa Alhamdan</h1>
