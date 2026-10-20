@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Baraa Alhamdan
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=ture"width="60%" alt="Welcome"/>
 ### 🎓 Computer Science Student | Aspiring Software Developer
 
 Welcome to my GitHub profile! 👨‍💻
