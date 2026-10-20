@@ -1,8 +1,8 @@
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=ture"width="60%" alt="Welcome"/>
 ### 🎓 Computer Science Student | Aspiring Software Developer
 
 Welcome to my GitHub profile! 👨‍💻
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=ture"width="60%" alt="Welcome"/>
 I'm a Computer Science student based in Dubai, UAE, currently building my programming skills and exploring different areas of technology.
 
 I'm passionate about learning how software works, solving problems, and turning ideas into practical projects. I'm at the beginning of my programming journey, and I'm excited to keep learning, experimenting, and growing as a developer.
