@@ -1,5 +1,4 @@
-# Hi, I'm Mohammed Baraa Alhamdan
-
+# Hi, I'm Mohamad Baraa
 I'm a final-year Computer Science student at De Montfort University Dubai, graduating in June 2027. I'm looking for internship opportunities in the UAE in software development and data analytics.
 
 ## Featured Project
